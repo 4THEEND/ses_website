@@ -1,0 +1,21 @@
+body
+{
+  background-image: url("image.jfif");
+  background-attachment: fixed;
+  background-color: blue;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  color: red;
+  font-size: x-large;
+}
+h1
+{
+  font-size: xx-large;
+  color: white;
+  text-align: center;
+.fin
+{
+  font-size: x-large; 
+  color: red;
+  background-color: red;
+}
